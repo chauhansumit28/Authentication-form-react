@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: pink;
+    height: 50px;
+    font-size: large;  
+}
+.btn-danger{
+ margin-left: 10px;
+}
+img{
+    height: 700px;
+}
